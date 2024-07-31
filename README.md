@@ -1,5 +1,5 @@
 
-![Header](https://github.com/Illia-Ivanov/Illia-Ivanov/blob/main/Illia-Ivanov.gif)
+![Header]([https://github.com/Illia-Ivanov/Illia-Ivanov/blob/main/Illia-Ivanov.gif](https://github.com/Illia-Ivanov/Illia-Ivanov/blob/main/illia-ivanov-high-resolution-logo-white.png))
 
 
 About me 
