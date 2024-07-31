@@ -1,17 +1,8 @@
-![Header](https://github.com/Illia-Ivanov/Illia-Ivanov/blob/main/aasser.png)
+## Hello every body!
 
-About me 
+## I'm a novice QA Engineer eager to establish myself in the field.
 
-Hello every body!
+## I possess the following skills: TestRail, Jira, Trello, Postman, Agile Methodologies, Python, HTML, CSS, SQL
 
-I'm a novice QA Engineer eager to establish myself in the field.
+## I would also like to say that I am a fast learner and with good team skills I'm always open to new proposals.
 
-I possess the following skills: TestRail, Jira, Trello, Postman, Agile Methodologies, Python, HTML, CSS, SQL
-
-I would also like to say that I am a fast learner and with good team skills I'm always open to new proposals.
-
-
-Contact Me 
-
-
-Language and Tools
