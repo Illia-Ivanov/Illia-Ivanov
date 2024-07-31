@@ -6,7 +6,7 @@ I possess the following skills: TestRail, Jira, Trello, Postman, Agile Methodolo
 
 I would also like to say that I am a fast learner and with good team skills I'm always open to new proposals.
 
-![Header](https://github.com/Illia-Ivanov/Illia-Ivanov/blob/main/da.png)
+![Header](https://github.com/Illia-Ivanov/Illia-Ivanov/blob/main/aasser.png)
 
 
 About me 
