@@ -10,6 +10,12 @@ With experience in **manual testing**, **IT support**, and a passion for continu
 
 Here are the key technologies and tools I work with:
 
+### **Operating Systems**
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)  
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)  
+- ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
+
 - **Programming & Scripting:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
   ![Bash](https://img.shields.io/badge/-Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white)
@@ -33,6 +39,13 @@ Here are the key technologies and tools I work with:
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)  
   ![TestRail](https://img.shields.io/badge/-TestRail-3776AB?logoColor=white)  
   ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF6C37?logo=browserstack&logoColor=white)
+
+- **Ticket Systems & Collaboration Platforms:**  
+  ![OTRS](https://img.shields.io/badge/-OTRS-000000?logoColor=white)  
+  ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)  
+  ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)  
+  ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)  
+  ![Mattermost](https://img.shields.io/badge/-Mattermost-0072C6?logo=mattermost&logoColor=white)
 
 ---
 
