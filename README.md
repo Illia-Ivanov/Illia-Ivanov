@@ -11,10 +11,10 @@ With experience in **manual testing**, **IT support**, and a passion for continu
 Here are the key technologies and tools I work with:
 
 ### **Operating Systems**
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)  
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)  
-- ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
+   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)  
+   ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)  
+   ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
 
 ### **Programming & Scripting:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
