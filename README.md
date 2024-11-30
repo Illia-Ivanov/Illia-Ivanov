@@ -1,28 +1,27 @@
 # 👋 Hello, I’m Illia Ivanov!
 
 Welcome to my GitHub profile!  
-I'm an aspiring **System Administrator** and **QA Engineer** eager to learn, grow, and make an impact in the IT world.  
-I specialize in **Software Testing** and **System Integration** with a strong focus on tools, automation, and problem-solving.  
+I'm an aspiring **Manual QA Engineer** and **IT Support Specialist** dedicated to ensuring software quality and providing reliable IT solutions.  
+With experience in **manual testing**, **IT support**, and a passion for continuous learning, I am always eager to contribute and grow in the IT field.
 
 ---
 
 ## 🧰 **Technical Skills**
 
-Here are the key technologies and tools I use in my projects:
+Here are the key technologies and tools I work with:
 
 - **Programming & Scripting:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  ![Bash](https://img.shields.io/badge/-Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash_Scripting-4EAA25?logo=gnu-bash&logoColor=white)
 
-- **Databases & Data Formats:**  
+- **Data Formats & Databases:**  
   ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)  
+  ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)  
   ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)  
   ![CSV](https://img.shields.io/badge/-CSV-FFD43B?logo=csv&logoColor=white)
 
 - **DevOps & Containers:**  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
   ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
@@ -39,11 +38,11 @@ Here are the key technologies and tools I use in my projects:
 
 ## 🎯 **About Me**
 
-- 🎓 I hold a degree in **Application Development and System Integration** from the National Aviation University, Wassylkiw (2020–2024).  
-- 🧪 I have professional experience in **manual testing**, creating **test cases**, and documenting bugs to improve software quality.  
-- 🚀 As a **Junior QA Engineer**, I’ve successfully worked on **freelance projects** and supported internal systems at **3pc GmbH Neue Kommunikation**.  
-- 🛠️ I am proficient in debugging, automation, and problem-solving using technologies like **Linux**, **Docker**, and **Python**.  
-- 🤝 I enjoy collaborating in teams and learning new skills to keep growing as an IT professional.
+- 🎓 I graduated from the National Aviation University, Wassylkiw (2020–2024) with a focus on **Application Development**, **System Integration**, and **Software Testing**.  
+- 🧪 I specialize in **manual testing**, creating **test cases**, **test plans**, and documenting bugs to improve software quality.  
+- 🛠️ I have practical experience in **IT support** and use my skills to maintain reliable systems and assist users.  
+- 📚 During my **GoIT Junior QA Engineer** course, I mastered testing methods such as **API testing**, **functional testing**, and **regression testing**, as well as tools like **Jira**, **TestRail**, and **Postman**.  
+- 🌟 I have a strong interest in **problem-solving**, **team collaboration**, and continuously enhancing my skills to meet new challenges.
 
 ---
 
@@ -58,7 +57,7 @@ Here are the key technologies and tools I use in my projects:
 ## 🏆 **Certifications**
 
 - **QA Engineer Certification** — GoIT  
-- **Python Certification**
+- **Python Certification** — GoIT  
 
 ---
 
