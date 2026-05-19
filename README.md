@@ -1,8 +1,7 @@
 # 👋 Hallo, ich bin Illia Ivanov!
 
 Willkommen auf meinem GitHub-Profil!  
-Ich bin angehender **Systemadministrator** und **Fachinformatiker für Systemintegration** mit praktischer Erfahrung in der Administration von **Linux/Windows-Servern**, **Microsoft 365**, **Azure Hybrid Cloud** und **Netzwerkinfrastrukturen**.  
-Mit meiner Leidenschaft für zuverlässige IT-Systeme und kontinuierliches Lernen bin ich stets motiviert, meine Fähigkeiten im Bereich Systemadministration weiterzuentwickeln.
+Ich bin angehender **Systemadministrator** und **Fachinformatiker für Systemintegration** mit praktischer Erfahrung in der **Administration von Linux Server** und **Netzwerkadministration**.
 
 ---
 
